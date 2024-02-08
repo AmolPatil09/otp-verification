@@ -1,0 +1,26 @@
+.mainDiv{
+    width:100px;
+    min-height:200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: azure;
+}
+.OTPDiv{
+    display: flex;
+    width: 300px;
+    flex-wrap: nowrap;
+    text-align: center;
+   justify-content: center;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+.OTPField{
+    height: 50px;
+    font-size:1.2rem;
+    font-weight: 900;
+    width: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 30px;
+
+}
